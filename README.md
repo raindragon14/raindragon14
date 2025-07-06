@@ -6,7 +6,7 @@
 
 ### 👋 About Me
 
-I am a detail-oriented **Data Scientist** and **Data Analyst** with a strong foundation in statistics, machine learning, and programming. My professional focus is on leveraging data to drive insights and automate business processes. Beyond my core work in data, I am an avid follower of the web3 and cryptocurrency space, actively engaging as both a researcher and a trader. I am passionate about continuous learning and applying cutting-edge technology to solve complex problems.
+I am a detail-oriented **Machine Learning Engineer** with a strong foundation in statistics, machine learning, and programming. My professional focus is on leveraging data to drive insights and automate business processes. Beyond my core work in data, I am an avid follower of the web3 and cryptocurrency space, actively engaging as both a researcher and a trader. I am passionate about continuous learning and applying cutting-edge technology to solve complex problems.
 
 ---
 
