@@ -34,7 +34,7 @@ I am a detail-oriented **Data Analyst** with a strong foundation in statistics, 
 | Project                                                                            | Description                                                                                                                                                     |
 | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **[rag-product-qa](https://github.com/raindragon14/product-qa-cloud)** | An advanced Question-Answering system using a Retrieval-Augmented Generation (RAG) model. This project is designed to provide accurate answers by combining retrieval-based and generative approaches. |
-| **[Pi-Engine](https://github.com/raindragon14/Pi-Engine)** | A featured project showcasing innovative solutions and technical expertise. |
+| **[PI-Engine](https://github.com/raindragon14/Product_Intellegence_Engine)** | A featured project showcasing innovative solutions and technical expertise. |
 
 ---
 
