@@ -6,7 +6,7 @@
 
 ### 👋 About Me
 
-I am a passionate **AI Engineer** and **Data Scientist** with deep expertise in machine learning, deep learning, and building intelligent systems. My work focuses on developing end-to-end AI solutions—from data preprocessing and model training to deployment and optimization. I thrive on solving complex problems using cutting-edge AI technologies and transforming raw data into actionable insights and intelligent applications.
+I am a passionate **AI Engineer** and **Data Scientist** with deep expertise in machine learning, deep learning, and building intelligent systems. My work focuses on developing end-to-end AI solutions from data preprocessing and model training to deployment and optimization. I thrive on solving complex problems using cutting-edge AI technologies and transforming raw data into actionable insights and intelligent applications.
 
 ---
 
@@ -31,17 +31,6 @@ I am a passionate **AI Engineer** and **Data Scientist** with deep expertise in 
 - **Data Science:** Extracting valuable insights from complex datasets through statistical analysis and visualization.
 - **MLOps:** Implementing end-to-end ML pipelines with proper versioning, monitoring, and deployment strategies.
 - **AI Research:** Staying current with state-of-the-art models and applying them to real-world problems.
-
----
-
-### 🚀 Featured Projects
-
-| Project                                                                            | Description                                                                                                  |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| **[rag-product-qa](https://github.com/raindragon14/product-qa-cloud)** | An advanced Question-Answering system using a Retrieval-Augmented Generation (RAG) model. Leverages LLMs and vector databases for intelligent product information retrieval. |
-| **[PI-Engine](https://github.com/raindragon14/Product_Intellegence_Engine)** | A Product Intelligence Engine showcasing innovative AI-driven solutions and technical expertise. |
-
----
 
 ### 📊 GitHub Stats
 
