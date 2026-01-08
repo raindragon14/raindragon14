@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-I am a passionate **AI Engineer** and **Data Scientist** with deep expertise in machine learning, deep learning, and building intelligent systems. My work focuses on developing end-to-end AI solutions that transform complex data into actionable insights and impactful products.
+I am a passionate **AI Engineer** and **Data Scientist** with deep expertise in machine learning, deep learning, and building intelligent systems. My work focuses on developing end-to-end AI solutions.
 
 - 🔭 Currently working on **cutting-edge AI/ML projects**
 - 🌱 Continuously learning **LLMs, Generative AI, and MLOps best practices**
