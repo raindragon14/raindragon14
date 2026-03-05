@@ -10,17 +10,22 @@
 
 <img src="https://komarev.com/ghpvc/?username=raindragon14&style=flat-square&color=blue" alt="Profile Views"/>
 
+**🌐 Language / Bahasa:** [English](#-about-me) | [Bahasa Indonesia](#-tentang-saya)
+
 </div>
 
 ---
 
+<!-- ==================== ENGLISH SECTION ==================== -->
+
 ## 👋 About Me
 
-Data Scientist with focus on **quantitative research**, **statistical modeling**, and **data analytics**. I enjoy turning raw data into actionable insights through rigorous analysis and interactive visualizations.
+Data Scientist with a mathematical background, focused on **quantitative research**, **statistical modeling**, and **data analytics**. I enjoy turning raw data into actionable insights through rigorous analysis and interactive visualizations. Specialized in classification, predictive analytics, machine learning, and data visualization.
 
 - 🔭 Currently working on **[Regime-Shift](https://github.com/raindragon14/Regime-Shift)** — Quantitative analysis of Bitcoin regime shift during geopolitical crises
-- 🏆 Jatim Datathon Finalist
+- 🏆 Jatim Datathon Finalist 2025
 - 📊 Passionate about **financial analytics & interactive dashboards**
+- 📍 Based in **Semarang, Indonesia**
 - 🤝 Open to collaboration on **data-driven research projects**
 
 ---
@@ -95,5 +100,88 @@ Data Scientist with focus on **quantitative research**, **statistical modeling**
 <div align="center">
 
 **💬 Let's connect — reach out via [LinkedIn](https://www.linkedin.com/in/mreihanpandanarang) or [email](mailto:mrpandanarang@gmail.com)!**
+
+</div>
+
+---
+---
+
+<!-- ==================== BAHASA INDONESIA SECTION ==================== -->
+
+<div align="center">
+
+## 🇮🇩 Versi Bahasa Indonesia
+
+</div>
+
+## 👋 Tentang Saya
+
+Data Scientist dengan latar belakang matematika, berfokus pada **riset kuantitatif**, **pemodelan statistik**, dan **analitika data**. Saya senang mengubah data mentah menjadi wawasan yang dapat ditindaklanjuti melalui analisis yang ketat dan visualisasi interaktif. Spesialisasi dalam klasifikasi, analitika prediktif, machine learning, dan visualisasi data.
+
+- 🔭 Sedang mengerjakan **[Regime-Shift](https://github.com/raindragon14/Regime-Shift)** — Analisis kuantitatif pergeseran rezim Bitcoin saat krisis geopolitik
+- 🏆 Finalis Jatim Datathon 2025
+- 📊 Memiliki passion di **analitika keuangan & dashboard interaktif**
+- 📍 Berlokasi di **Semarang, Indonesia**
+- 🤝 Terbuka untuk kolaborasi dalam **proyek riset berbasis data**
+
+---
+
+## 🚀 Proyek
+
+| Proyek | Deskripsi | Teknologi |
+|--------|-----------|-----------|
+| 🪙 [Regime-Shift](https://github.com/raindragon14/Regime-Shift) | Analisis kuantitatif hipotesis safe-haven Bitcoin menggunakan Event Study, Rolling Correlation & VIX-Conditional Beta | `Python` `Dash` `Plotly` `statsmodels` |
+| 📊 [OPData](https://github.com/raindragon14/OPData) | Analisis data dengan dashboard Tableau & web app Streamlit | `Jupyter` `Streamlit` `Tableau` |
+| 💻 [Laptop_Predict](https://github.com/raindragon14/Laptop_Predict) | Pemodelan prediktif ML untuk estimasi harga laptop | `Jupyter` `scikit-learn` `Pandas` |
+| 🏆 [Jatim Datathon](https://github.com/raindragon14/Final_Jatim_Datathon) | Proyek kompetisi data science dengan [aplikasi Streamlit](https://github.com/raindragon14/Streamlit_Jatim_Datathon) | `Jupyter` `Streamlit` `Python` |
+| 🔐 [Decoding-Cyclic-Code](https://github.com/raindragon14/Decoding-Cyclic-Code) | Encoder/decoder kode siklik (7,4) untuk deteksi & koreksi kesalahan | `Python` `NumPy` |
+| 🌐 [Rain Portfolio](https://rainportfolio.vercel.app) | Website portofolio pribadi | `TypeScript` `React` `Tailwind CSS` |
+
+---
+
+## 🛠️ Tech Stack
+
+<details>
+<summary><b>Bahasa Pemrograman</b></summary>
+<br>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</details>
+
+<details>
+<summary><b>Data Science & ML</b></summary>
+<br>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+</details>
+
+<details>
+<summary><b>Visualisasi & Dashboard</b></summary>
+<br>
+<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+<img src="https://img.shields.io/badge/Dash-%23008DE4.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Dash" />
+<img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+</details>
+
+<details>
+<summary><b>Alat</b></summary>
+<br>
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</details>
+
+---
+
+<div align="center">
+
+**💬 Ayo terhubung — hubungi saya lewat [LinkedIn](https://www.linkedin.com/in/mreihanpandanarang) atau [email](mailto:mrpandanarang@gmail.com)!**
 
 </div>
