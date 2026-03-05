@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/mreihanpandanarang"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://rainportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:rainpeuv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:mrpandanarang@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=raindragon14&style=flat-square&color=blue" alt="Profile Views"/>
 
@@ -94,6 +94,6 @@ Data Scientist with focus on **quantitative research**, **statistical modeling**
 
 <div align="center">
 
-**💬 Let's connect — reach out via [LinkedIn](https://www.linkedin.com/in/mreihanpandanarang) or [email](mailto:rainpeuv@gmail.com)!**
+**💬 Let's connect — reach out via [LinkedIn](https://www.linkedin.com/in/mreihanpandanarang) or [email](mailto:mrpandanarang@gmail.com)!**
 
 </div>
