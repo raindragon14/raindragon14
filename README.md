@@ -46,11 +46,9 @@ AI Engineer with a mathematical background, focused on **Artificial Intellegence
 
 </div>
 
----
-
 <div align="center">
 
-**💬 Let's connect — reach out via [LinkedIn](https://www.linkedin.com/in/mreihanpandanarang) or [email](mailto:mrpandanarang@gmail.com)!**
+**💬 Let's connect. reach out via [LinkedIn](https://www.linkedin.com/in/mreihanpandanarang) or [email](mailto:mrpandanarang@gmail.com)!**
 
 </div>
 
