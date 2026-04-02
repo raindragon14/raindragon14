@@ -55,5 +55,3 @@ AI Engineer with a mathematical background, focused on **Artificial Intellegence
 </div>
 
 ---
-
----
