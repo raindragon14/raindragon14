@@ -23,7 +23,7 @@ AI Engineer with a mathematical background, focused on **Artificial Intellegence
 - 🏆 Jatim Datathon Finalist 2025
 - 📊 Passionate about **Small Language Model** and **Agentic Workflow**
 - 📍 Based in **Semarang, Indonesia**
-- 🤝 Open to collaboration on **AI On Small Language Model**
+- 🤝 Open to collaboration on **Small Language Model Project**
 
 ---
 
