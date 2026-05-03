@@ -1,51 +1,51 @@
 <div align="center">
-  <h1>👋 Hi, I'm Reihan (@raindragon14)</h1>
-  <h3>🚀 AI Engineer & Machine Learning Developer</h3>
-  <p>Building intelligent agents, predictive models, and data-driven systems on a global scale.</p>
+  <h1>Muhammad Reihan Pandanarang</h1>
+  <h3>AI Engineer · Machine Learning · Systems</h3>
+  <p>Building AI agents, compilers, and data systems at the intersection of research and engineering.</p>
 </div>
 
 ---
 
-### 🧠 Expertise & Tech Stack
+### 🧰 Stack
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Artificial Intelligence** | LLM APIs, AI Agents, Prompt Engineering, Machine Learning |
-| **Data Science** | Predictive Modeling, Data Analysis, Jupyter Notebooks |
+| Layer | Tools |
+|:---|:---|
+| **AI / ML** | LLMs, AI Agents, Prompt Engineering, Jupyter, Scikit-learn, DeepSeek, Claude, Gemini |
 | **Languages** | Python, TypeScript, C++, SQL |
-| **Tools & Infrastructure** | Git, Termux, Linux, Docker |
+| **Systems** | Compilers, CPU architecture, Linux, Docker |
+| **Tools** | Git, Termux, VS Code, Pi Coding Agent |
 
 ---
 
-### 🔭 Featured Open-Source Projects
+### 📌 Projects
 
-- 🤖 **[pi-mono](https://github.com/raindragon14/pi-mono)**
-  *AI Agent Toolkit & Unified LLM API*
-  Contributing to a high-performance ecosystem for coding agents, featuring a unified LLM API, TUI/Web UI libraries, and vLLM integration. Focus on expanding model capabilities and improving agent reasoning.
+- 🔧 **[pi-agent-dotfiles](https://github.com/raindragon14/pi-agent-dotfiles):** One-command AI coding agent setup. Portable config with custom extensions, prompt templates, and multi-provider model definitions.
 
-- 📈 **[Laptop_Predict](https://github.com/raindragon14/Laptop_Predict)**
-  *Machine Learning Regression*
-  A predictive modeling project focused on estimating laptop prices based on hardware specifications using advanced regression techniques.
+- ⚙️ **[cpu-framework](https://github.com/raindragon14/cpu-framework):** C++ CPU simulation framework. Low-level architecture modeling.
 
-- 📊 **[JatimDatathon](https://github.com/raindragon14/JatimDatathon)**
-  *Data Analysis & Visualization*
-  Extensive data exploration and analytical insights developed during the Jatim Datathon, transforming raw datasets into actionable intelligence.
+- 📈 **[Laptop_Predict](https://github.com/raindragon14/Laptop_Predict):** ML regression for laptop price prediction from hardware specs.
+
+- 📊 **[JatimDatathon](https://github.com/raindragon14/JatimDatathon):** Data analysis and visualization. Raw datasets to actionable insights.
+
+- 🤖 **[pi-mono](https://github.com/raindragon14/pi-mono):** Contributor. AI agent toolkit: unified LLM API, TUI/Web UI, coding agent CLI, vLLM pods.
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raindragon14&show_icons=true&theme=radical&hide_border=true" alt="raindragon14's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raindragon14&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raindragon14&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raindragon14&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
 
-### 📫 Connect with Me
+### 📫 Contact
+
 - **Email:** [reihan@students.unnes.ac.id](mailto:reihan@students.unnes.ac.id)
 - **GitHub:** [@raindragon14](https://github.com/raindragon14)
+- **Institution:** Universitas Negeri Semarang
 
 <div align="center">
-  <i>“Pushing the boundaries of what AI can build, one commit at a time.”</i>
+  <i>Building things that think.</i>
 </div>
