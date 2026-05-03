@@ -27,8 +27,6 @@
 
 - 📊 **[JatimDatathon](https://github.com/raindragon14/JatimDatathon):** Data analysis and visualization. Raw datasets to actionable insights.
 
-- 🤖 **[pi-mono](https://github.com/raindragon14/pi-mono):** Contributor. AI agent toolkit: unified LLM API, TUI/Web UI, coding agent CLI, vLLM pods.
-
 ---
 
 ### 📊 Stats
