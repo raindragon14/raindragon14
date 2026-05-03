@@ -29,15 +29,6 @@
 
 ---
 
-### 📊 Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raindragon14&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raindragon14&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
-
----
-
 ### 📫 Contact
 
 - **Email:** [reihan@students.unnes.ac.id](mailto:reihan@students.unnes.ac.id)
