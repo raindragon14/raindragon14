@@ -1,30 +1,30 @@
-<div align="center">
-  <h1>Muhammad Reihan Pandanarang</h1>
-  <p>AI Engineer — Universitas Negeri Semarang</p>
-</div>
+## Muhammad Reihan Pandanarang
 
----
+**AI Engineer & Data Scientist.** Self-hosted AI gateways, MCP tool infrastructure, RAG systems, and data-driven models.
 
-### Tech Stack
+### Stack
 
-| Domain | Tools |
-|:---|:---|
-| Languages | Python, C++, TypeScript, Shell |
-| ML / Data | Scikit-learn, XGBoost, LightGBM, Pandas, NumPy, Matplotlib, Seaborn, Plotly |
-| ML UI | Streamlit, Jupyter |
-| Systems | AVX2 intrinsics, GEMM kernels, CMake, cross-platform C++ |
-| AI / LLM | OpenAI API integration, prompt engineering, AI agent configuration |
-
----
+| Domain | |
+|---|---|
+| AI / LLM | OpenAI, Anthropic, Groq, OpenRouter, MCP, RAG, agent memory |
+| ML / Data | scikit-learn, XGBoost, LightGBM, pandas, NumPy, Matplotlib, Seaborn |
+| Backend | Python, FastAPI, SQLAlchemy, Docker, Caddy |
+| Systems | C++, AVX2, GEMM kernels, CMake |
 
 ### Projects
 
-- **[cpu-framework](https://github.com/raindragon14/cpu-framework)** — C++ CPU simulation framework with AVX2 GEMM kernels, xoshiro256+ PRNG, and cross-platform CMake build.
-- **[Laptop_Predict](https://github.com/raindragon14/Laptop_Predict)** — Laptop price regression using Scikit-learn, XGBoost, and LightGBM with Streamlit deployment.
-- **[JatimDatathon](https://github.com/raindragon14/JatimDatathon)** — Data analysis and interactive visualization dashboard with Pandas, Seaborn, Plotly, and Streamlit.
+**PhiGateway** — Self-hosted AI gateway. LLM proxy, MCP tool registry, RAG knowledge base, agent memory — one API. FastAPI + Docker + Caddy.  
+[github.com/raindragon14/phi-gateway](https://github.com/raindragon14/phi-gateway)
 
----
+**cpu-framework** — CPU simulation framework with AVX2 GEMM kernels and xoshiro256+ PRNG. Cross-platform CMake.  
+[github.com/raindragon14/cpu-framework](https://github.com/raindragon14/cpu-framework)
+
+**Laptop Predict** — Laptop price prediction with XGBoost, LightGBM, and Streamlit.  
+[github.com/raindragon14/Laptop_Predict](https://github.com/raindragon14/Laptop_Predict)
+
+**Jatim Datathon** — East Java economic analysis with interactive visualizations in Streamlit.  
+[github.com/raindragon14/JatimDatathon](https://github.com/raindragon14/JatimDatathon)
 
 ### Contact
 
-[reihan@students.unnes.ac.id](mailto:reihan@students.unnes.ac.id)
+[mrpandanarang.my.id](https://mrpandanarang.my.id) · [GitHub](https://github.com/raindragon14) · [LinkedIn](https://linkedin.com/in/mreihanpandanarang)
