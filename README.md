@@ -22,7 +22,6 @@
 - **[cpu-framework](https://github.com/raindragon14/cpu-framework)** — C++ CPU simulation framework with AVX2 GEMM kernels, xoshiro256+ PRNG, and cross-platform CMake build.
 - **[Laptop_Predict](https://github.com/raindragon14/Laptop_Predict)** — Laptop price regression using Scikit-learn, XGBoost, and LightGBM with Streamlit deployment.
 - **[JatimDatathon](https://github.com/raindragon14/JatimDatathon)** — Data analysis and interactive visualization dashboard with Pandas, Seaborn, Plotly, and Streamlit.
-- **[pi-agent-dotfiles](https://github.com/raindragon14/pi-agent-dotfiles)** — Portable AI coding agent configuration with custom extensions, prompt templates, and multi-provider LLM setup.
 
 ---
 
