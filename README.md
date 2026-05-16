@@ -1,6 +1,6 @@
 ## Muhammad Reihan Pandanarang
 
-**AI Engineer & Data Scientist.** Self-hosted AI gateways, MCP tool infrastructure, RAG systems, and data-driven models.
+**AI Engineer & Data Scientist.** Building production-grade self-hosted AI infrastructure.
 
 ### Stack
 
@@ -13,7 +13,7 @@
 
 ### Projects
 
-**PhiGateway** — Self-hosted AI gateway. LLM proxy, MCP tool registry, RAG knowledge base, agent memory — one API. FastAPI + Docker + Caddy.  
+**PhiGateway** — Production-grade self-hosted AI gateway. LLM proxy, MCP tool registry, RAG knowledge base, agent memory — one API. FastAPI + Docker + Caddy.  
 [github.com/raindragon14/phi-gateway](https://github.com/raindragon14/phi-gateway)
 
 **cpu-framework** — CPU simulation framework with AVX2 GEMM kernels and xoshiro256+ PRNG. Cross-platform CMake.  
