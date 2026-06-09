@@ -6,7 +6,7 @@
 
 ### Stack
 
-**AI / LLM** · OpenAI · Anthropic · Groq · OpenRouter · MCP · RAG · agent memory · tool orchestration  
+**AI / LLM** · OpenAI · Anthropic · MCP · RAG · agent memory · tool orchestration  
 **ML / Data** · scikit-learn · XGBoost · LightGBM · pandas · NumPy · SHAP · LIME  
 **Backend & Infra** · FastAPI · Docker · SQLAlchemy · Caddy · GitHub Actions · PyPI  
 
@@ -27,4 +27,4 @@
 
 ### Contact
 
-[mrpandanarang.my.id](https://mrpandanarang.my.id) · [GitHub](https://github.com/raindragon14) · [LinkedIn](https://linkedin.com/in/mreihanpandanarang)
+[reihanpandanarang.my.id](https://reihanpandanarang.my.id) · [GitHub](https://github.com/raindragon14) · [LinkedIn](https://linkedin.com/in/mreihanpandanarang)
