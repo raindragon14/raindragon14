@@ -1,33 +1,50 @@
-Hi, I'm **Muhammad Reihan Pandanarang** — AI engineer & data scientist.
+Hi, I'm **Muhammad Reihan Pandanarang** — AI Engineer & Mathematician.
 
-I build production AI infrastructure and data-driven solutions. Currently doing mathematics at Universitas Negeri Semarang while working on edge AI systems, LLM orchestration, and ML engineering.
+I build **hybrid open-model AI infrastructure**: local-first LLM serving with smart routing, RAG systems, and agent orchestration. Currently focused on production-grade AI systems that run on minimal hardware (VPS/edge) without sacrificing capability. Background in pure mathematics drives my approach: rigorous evaluation, formal reasoning about system behavior, and mathematically-grounded retrieval strategies.
 
 ---
 
 **What I work on:**
 
-- 🤖 **AI/LLM infrastructure** — routing, RAG, agent orchestration, model interoperability
-- 📊 **ML engineering** — predictive models, statistical validation, model interpretability (SHAP/LIME)
-- ⚙️ **Systems programming** — daemon architecture, sandboxing, cross-platform tooling in Rust & Go
-- 🛠️ **Developer tools** — self-hosted gateways, CLI tools, automation pipelines
+- 🤖 **Hybrid Open-Model AI** — Ollama + local LLMs with cloud fallback, OpenAI-compatible gateway, cost guardrails
+- 🔍 **RAG & Retrieval** — hybrid search (BM25 + dense + rerank), citation-grounded answers, eval harnesses
+- 🧠 **Agentic AI** — custom agent orchestrators (no LangChain bloat), tool-calling, multi-agent planning, verifier loops
+- 📊 **ML Engineering** — statistical validation, model interpretability (SHAP/LIME), composite risk scoring
+- ⚙️ **Systems** — Docker, Rust, Go, edge deployment, sandboxing
 
 ---
 
-**Key projects:**
+**Key Projects:**
 
-- **[OmniGate](https://github.com/raindragon14/omnigate)** — Self-hosted OpenAI-compatible gateway unifying 7+ LLM providers with smart routing, automatic fallback, and cost guardrails. Bun + TypeScript + Docker.
+- **[OmniGate](https://github.com/raindragon14/omnigate)** — Self-hosted OpenAI-compatible gateway unifying 7+ LLM providers with smart routing, automatic fallback, and cost guardrails. Bun + TypeScript + Docker. *(Hybrid model routing: local-first, cloud-fallback)*
+
+- **[doc-intelligence-hub](https://github.com/raindragon14/doc-intelligence-hub)** — Enterprise document analysis: one engine, two workspaces (Procurement + Legal). RAG with pluggable backends (FAISS, TEI, FlashRank). Production-grade retrieval with resource-efficient design.
+
+- **[Sentinel](https://github.com/raindragon14/sentinel)** — Personal intelligence brief system. Go + SQLite. No feeds, no noise — intentional reading. OpenAI-compatible model router with local embedding support.
+
+- **[Axos](https://github.com/raindragon14/axos)** — AI operating system for edge devices. 13-crate Rust workspace with Landlock/seccomp sandboxing and MCP-based JSON-RPC.
 
 - **[OpenData-Jatim](https://github.com/raindragon14/OpenData-Jatim)** — Composite Risk Score from 15+ macro variables (Spearman ρ = 0.9182 vs NPL). XGBoost R² = 0.9669 with SHAP/LIME. Jatim Datathon 2025 Finalist (76 teams).
 
-- **[doc-intelligence-hub](https://github.com/raindragon14/doc-intelligence-hub)** — Enterprise document analysis: one engine, two workspaces (Procurement + Legal). RAG with pluggable backends (FAISS, TEI, FlashRank).
+---
 
-- **[sentinel](https://github.com/raindragon14/sentinel)** — Personal intelligence brief system. Go + SQLite. No feeds, no noise — intentional reading.
+**Tech Stack:**
 
-- **[axos](https://github.com/raindragon14/axos)** — AI operating system for edge devices. 13-crate Rust workspace with Landlock/seccomp sandboxing and MCP-based JSON-RPC.
+| Category | Tools |
+|---|---|
+| Languages | Python · TypeScript/Bun · Rust · Go |
+| AI/ML | Ollama · OpenAI SDK · Anthropic SDK · sentence-transformers · XGBoost · scikit-learn |
+| Retrieval | FAISS · pgvector · TEI · FlashRank · BM25 · cross-encoder rerank |
+| RAG/Agents | Custom orchestrator · LangGraph · tool-calling · multi-agent |
+| Infra | Docker · FastAPI · Hono/Bun · PostgreSQL · SQLite · Redis |
+| MLOps | GitHub Actions · Langfuse · Prometheus · healthchecks |
+| Frontend | Next.js · HTMX · Streamlit · Tailwind |
 
 ---
 
-**Tech:** Python · TypeScript · Rust · Go · Bun · Docker · FastAPI · XGBoost · scikit-learn · LangChain · SQLite · PostgreSQL · GitHub Actions · FAISS · Streamlit · Tableau
+**Deployment:**
+
+All projects are container-ready. I deploy on VPS with Docker Compose, reverse-proxied via Caddy. Hybrid model setups use Ollama (local) + cloud API (fallback) for cost-effective production AI.
 
 ---
 
@@ -40,4 +57,4 @@ I build production AI infrastructure and data-driven solutions. Currently doing 
 
 ---
 
-<p align="center"><sub>Last updated: September 2025</sub></p>
+<p align="center"><sub>Last updated: September 2026</sub></p>
