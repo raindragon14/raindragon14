@@ -13,7 +13,7 @@ before putting it into service.
 ## What I work on
 
 - **Model infrastructure** — gateways, provider routing, quota and cost control
-- **Applied machine learning** — evaluation design, leakage checks, reporting limits honestly
+- **Applied artificial intellegence** — evaluation design, leakage checks, reporting limits honestly
 - **Backend services** — FastAPI, Docker, Caddy, SQLite, GitHub Actions
 
 ## Selected work
