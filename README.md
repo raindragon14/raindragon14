@@ -22,7 +22,6 @@ into service.
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [OmniGate](https://github.com/raindragon14/omnigate) | One OpenAI-compatible endpoint that pools several free-tier LLM providers, with fallback and routing driven by measured quality, latency, and remaining quota. | Bun, TypeScript, Docker |
-| [OpenData-Jatim](https://github.com/raindragon14/OpenData-Jatim) | East Java economic intelligence: Composite Risk Score modelling with interpretable XGBoost surrogates and LLM policy narratives. Finalist, Jatim Datathon 2025. | Python, XGBoost |
 
 ## Experience
 
