@@ -4,8 +4,8 @@ AI engineer in Semarang, Indonesia. I build AI systems from the infrastructure a
 service architecture side: model gateways, request routing, failure handling, and
 tool orchestration.
 
-I am studying pure mathematics at Universitas Negeri Semarang, semester 7, with
-graduation expected in February 2027. The habit of working from definitions and
+I am studying pure mathematics at Universitas Negeri Semarang, with graduation
+expected in February 2027. The habit of working from definitions and
 proofs carried over, so I read a model's assumptions and limits before putting it
 into service.
 
@@ -26,6 +26,6 @@ into service.
 
 ## Experience
 
-**Data engineer intern, Dinas Kesehatan Kota Semarang** (January–July 2026). I built pipelines for puskesmas records and reconciled datasets across city agencies so operational reports used the same figures.
+**Data engineer intern, Dinas Kesehatan Kota Semarang** (January–July 2026).
 
 Open to AI engineering roles, in Semarang or remote.
